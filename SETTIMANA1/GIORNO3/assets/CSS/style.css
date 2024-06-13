@@ -1,0 +1,19 @@
+.corpo {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sottotitolo {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.call{
+    background-color: #FEFBF1;
+    border-top: 1px solid #FFD977;
+}
+.citazione{
+    color: gray;
+    font-style: normal;
+}
+.descr{
+    text-transform: uppercase;
+}
